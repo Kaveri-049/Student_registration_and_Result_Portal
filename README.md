@@ -1,6 +1,7 @@
 # Student Registration & Result Portal
 
 A single-page web app for registering a student, entering their marks, and instantly generating a result summary (total, percentage, pass/fail) — all client-side, no backend required.
+# demo link : https://kaveri-049.github.io/Student_registration_and_Result_Portal/
 
 ## Features
 
